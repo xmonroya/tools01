@@ -1,2 +1,4 @@
 # tools01
-Scripts básicos para algunas operaciones en servidores
+# Version 1.0
+# 10/05/2016
+Scripts básicos para trabajo con servidores Linux
